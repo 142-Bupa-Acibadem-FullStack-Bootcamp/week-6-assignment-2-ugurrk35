@@ -1,16 +1,7 @@
 # week-6-assignment-2
 
 ## Tic Tac Toe Uygulaması
-
-- 3x3, 9 kutudan oluşan bir yapı tasarlanacak. 
-
-- Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf kazanan oyuncu olacak. 3lü oluşmazsa oyun berabere sonuçlanacak. Oyun sonucu bir metin ile bildirilmeli.
-
-- *(html,css ve javascript kullanılarak yapılacak)*
-- *(querySelector ile html elementlerine erişim sağlayabilirsiniz)*
-- *(style, classList ile stillerle oynayabilirsiniz)*
-- *(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)*
-
+![ScreenRecorderProject4](https://user-images.githubusercontent.com/67828030/151411030-8299cb83-05bd-48c6-8b10-bc79da2133c6.gif)
 # Tic Tac Toe html /css /javascript ile yapımı
 
 
