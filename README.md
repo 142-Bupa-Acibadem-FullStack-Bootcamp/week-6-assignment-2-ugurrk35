@@ -1,7 +1,8 @@
 # week-6-assignment-2
 
 ## Tic Tac Toe Uygulaması
-![ScreenRecorderProject4](https://user-images.githubusercontent.com/67828030/151411030-8299cb83-05bd-48c6-8b10-bc79da2133c6.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67828030/151440825-82b80609-991d-462d-94d2-6f7dcd7e5396.gif)
+
 # Tic Tac Toe html /css /javascript ile yapımı
 
 
