@@ -326,5 +326,5 @@ mesaj butonu ayarlıyalım
 	border-color: white;
 }
 ```
-###Güncelleme
+### Güncelleme
 Css dosyanında renk değişikleri yapıldı
